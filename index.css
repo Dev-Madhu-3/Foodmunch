@@ -204,7 +204,7 @@
   height: 80px;
   border-radius: 40px;
   margin: 15px;
-  display: flex;
+  display: grid;
   align-items: center;
   justify-content: center;  
 }
